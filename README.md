@@ -249,7 +249,7 @@ algorithms, knowledgebase and AI technology.
 * [cl1p](https://Cl1p.net)
 * [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
-* [doxbin](https://Doxbin.org)
+* [doxbin](https://Doxbin.org) - Doxbin is where users can post information that has been obtained in a public manner and posted online.
 * [dpaste](https://Dpaste.com)
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
@@ -946,7 +946,7 @@ algorithms, knowledgebase and AI technology.
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
-* [LiveLeak](http://www.liveleak.com)
+* [LiveLeak](http://www.liveleak.com) - No longer avalible by this domain.
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
 * [Montage](https://montage.storyful.com)
