@@ -255,7 +255,7 @@ algorithms, knowledgebase and AI technology.
 * [dpaste2](https://Dpaste.org)
 * [dumpz](https://Dumpz.org)
 * [Friendpast](https://Friendpast.com)
-* [ghostbin](https://ghostbin.co/)
+* [ghostbin](https://ghostbin.co/) - Ghostbin lets users anonymously post pastes, there is no homepage, you may only acsess pastes through links. Also gives the ability to make a paste password protected.
 * [hastebin](https://Hastebin.com)
 * [heypasteit](https://Heypasteit.com)
 * [hpaste](https://Hpaste.org)
@@ -389,7 +389,7 @@ algorithms, knowledgebase and AI technology.
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
 * [TweetArchivist](http://www.tweetarchivist.com)
-* [TweetDeck](https://www.tweetdeck.com)
+* [TweetDeck](https://www.tweetdeck.com) - Allows users to set up constantly updating feeds of different Twitter data streams.
 * [Tweeten](http://tweeten.xyz)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
